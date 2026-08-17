@@ -1,0 +1,14 @@
+
+ ⌜                                                      ⌝
+ [Light_blue]   ██████╗ ██████╗  ██████╗  ██████╗ ██╗     ███████╗
+ [Light_blue]   ██╔══██╗██╔══██╗██╔═══██╗██╔═══██╗██║     ██╔════╝
+ [Light_blue]   ██║  ██║██████╔╝██║   ██║██║   ██║██║     ███████╗
+ [Light_blue]   ██║  ██║██╔══██╗██║   ██║██║   ██║██║     ╚════██║
+ [Light_blue]   ██████╔╝██║  ██║╚██████╔╝╚██████╔╝███████╗███████║
+ [Light_blue]   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚══════╝
+ ⌞                                                      ⌟
+             - A masterpiece made by grail. -
+
+Current Squids: [Purple]0
+Current Harpoons: [Purple]0
+Current Sand Dollars: [Purple]0 
